@@ -1,2 +1,2 @@
 FROM scratch
-MAINTAINER Lars Olzem <hackebein@gmail.com>
+MAINTAINER Lars Olzem <hackbein@gmail.com>
